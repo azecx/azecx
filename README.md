@@ -1,4 +1,4 @@
-A Swedish 🇸🇪 aspiring software developer and computer nerd with 4+ years of experience.
+An aspiring software developer and computer nerd from 🇸🇪 with 4+ years of experience.
 
 More info on [my website](https://aze.cx/).
 
