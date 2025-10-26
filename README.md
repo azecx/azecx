@@ -1,10 +1,7 @@
-An aspiring software developer and computer nerd from 🇸🇪 with 4+ years of experience.
+Hi, I'm **aze** - an aspiring software developer and computer enthusiast.
 
-Admin @ [Velocity](https://velocity.lat)<br/>
-Developer @ [Neverdies](https://neverdies.me/)<br/>
-Co-Owner @ [Saturn](https://saturn.gay/)
+[Email](mailto:contact@aze.cx) | [Discord](https://discord.com/users/1293175339207491585) | [Matrix](https://matrix.to/#/@z:nont.nl)
 
 More info on [my website](https://aze.cx/).
-
-### Contacts
-[Email](mailto:contact@aze.cx) | [Discord](https://discord.com/users/1293175339207491585) | [Matrix](https://matrix.to/#/@z:nont.nl)
+***
+<img style="width:60px;" alt="Tux" src="https://github.com/azecx/aze.cx/blob/main/assets/img/tux.gif?raw=true">
